@@ -1,0 +1,108 @@
+.subscribe-button {
+    background-color: rgb(200, 0, 0);
+    color: rgb(241, 241, 241);
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    vertical-align: top;
+}
+
+.subscribe-button:hover {
+    opacity: 0.8;
+}
+
+.subscribe-button:active {
+    opacity: 0.5;
+}
+
+.join-button {
+    background-color: white;
+    border-color: rgb(18, 12, 192);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    color: rgb(18, 12, 192);
+    cursor: pointer;
+    transition: background-color 0.15s,
+    color 0.15s;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.join-button:hover {
+    background-color: rgb(18, 12, 192);
+    color: white;
+}
+
+.join-button:active {
+    opacity: 0.7;
+}
+
+.tweet-button {
+    color: white;
+    background-color: rgb(29, 142, 235);
+    border: none;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 8px;
+    transition: box-shadow 0.15s;
+    vertical-align: top;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.tweet-button:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15)
+}
+
+.request-now-button {
+    color: white;
+    border: none;
+    background-color: black;
+    margin-right: 8px;
+    margin-left: 8px;
+    vertical-align: top;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.add-to-cart-button {
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    border-radius: 10px;
+    border-radius: 15px;
+    margin-right: 8px;
+    vertical-align: top;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.sign-up-button {
+    background-color: rgb(46, 164, 79);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    vertical-align: top;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
