@@ -1,6 +1,6 @@
 # christmaslights
 Website for a Christmas Light Installation Company
 
-To-Do List:
-1. Find Competitors to create a custom design
-2. Find what functionality we would like to add to the website
+# YouTube Project
+Practice from a youtube video on a full 6 and a half hour course
+
