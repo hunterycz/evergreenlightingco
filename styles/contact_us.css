@@ -1,0 +1,100 @@
+.contact-us-div-main {
+    background-color: #0e3a27;
+}
+
+.contact-us-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contact-us-text {
+    font-family: Playfair Display;
+    font-size: 65px;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+
+.contact-us-extra-text {
+    font-size: 22px;
+}
+
+input {
+    font-family: Roboto;
+    color: #000000;
+    font-size: 16px;
+    background-color: rgb(244, 244, 245);
+    padding: 20px 100px 20px 15px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 300px;
+}
+
+input::placeholder {
+    font-family: Roboto;
+    color: #71717A;
+    font-size: 16px;
+}
+
+label {
+    color: rgb(244, 244, 245);
+    margin-bottom: 50px;
+}
+
+.first-half-bottom-main-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 100px;
+    margin-top: 20px;
+}
+
+.message-div-main {
+    margin-left: 285px;
+}
+
+.message-bar {
+    padding-right: 0;
+    padding-bottom: 200px;
+    width: 919px;
+}
+
+textarea {
+    font-family: Roboto;
+    color: #000000;
+    font-size: 16px;
+    background-color: rgb(244, 244, 245);
+    padding: 20px 100px 20px 15px;
+    border: none;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    width: 300px;
+}
+
+textarea::placeholder {
+    font-family: Roboto;
+    color: #71717A;
+    font-size: 16px;
+}
+
+.send-button-inner-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.send-button {
+    background-color: rgb(189, 37, 40);
+    color: rgb(244, 244, 245);
+    font-family: Roboto;
+    font-size: 20px;
+    border: none;
+    padding: 20px 100px 20px 100px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    cursor: pointer;
+}

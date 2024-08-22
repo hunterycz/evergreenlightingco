@@ -1,0 +1,33 @@
+.about-us-div-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(189, 37, 40);
+    margin-top: -4px;
+}
+
+.about-us-text {
+    font-family: Playfair Display;
+    font-size: 65px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.underline-image {
+    width: 250px;
+    height: 50px;
+}
+
+.about-us-paragraph-div {
+    padding-left: 290px;
+    padding-right: 290px;
+}
+
+.about-us-paragraph-text {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: center;
+    margin-bottom: 70px;
+}
