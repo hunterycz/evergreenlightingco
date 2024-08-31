@@ -29,7 +29,7 @@
     width: 400px;
 }
 
-.contact-us-button {
+.contact-us-anchor {
     background-color: rgb(189, 37, 40);
     color: rgb(244, 244, 245);
     font-family: Roboto;
@@ -39,6 +39,7 @@
     border-radius: 10px;
     margin-bottom: 50px;
     cursor: pointer;
+    text-decoration: none;
 }
 
 .header-image {
